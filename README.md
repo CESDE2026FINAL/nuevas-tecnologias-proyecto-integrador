@@ -8,3 +8,8 @@ Integrantes:
 5. Felipe Rodríguez Restrepo
 
 Descripción:
+Estrategias de ramas.
+Convención de commits.
+Reglas para Pull Requests.
+Reglas para merges.
+Otras reglas de colaboracion.
